@@ -12,6 +12,9 @@ Repositório contendo resoluções de exercícios desenvolvidas ao longo de curs
   - built-in functions (funções embutidas);
   - Funções próprias;  
   - Lambda Functions (funções anônimas).
+- Estruturas de dados bidimensionais;
+- Comprehension (em lista e dicionário);
+- Exceções(try, except, else e finally)
 ## _Linguagem utilizada_:
 <div>
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
