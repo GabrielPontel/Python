@@ -15,7 +15,16 @@ Repositório contendo resoluções de exercícios desenvolvidas ao longo de curs
 - Estruturas de dados bidimensionais;
 - Comprehension (em lista e dicionário);
 - Exceções(try, except, else e finally)
-## _Linguagem utilizada_:
+
+## _Tecnologias_:
 <div>
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+## _Desenvolvedor_:
+
+ <img src="https://github.com/GabrielPontel.png" width="150" alt="Foto do perfil GitHub">
+<a href="https://github.com/GabrielPontel" target="_blank">
+<h>GabrielPontel</h>
+</a>
+
